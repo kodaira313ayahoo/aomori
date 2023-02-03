@@ -1,6 +1,7 @@
 # aomori
 
 <h1>h1 Title</h1>
+<h2>h2 Sub Title</h2>
 
 issue333<br>
 by_ref-01
